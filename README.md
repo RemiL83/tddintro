@@ -1,2 +1,3 @@
 # tddintro
-Oppgave mm914
+Oppgave i mm914.
+TDD Intro
